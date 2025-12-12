@@ -17,7 +17,7 @@ The raw expression matrix is **not** included in this repository because of its 
 
    A simple layout might be:
    - `data/Meta.txt`  
-   - `data/<GTEx_Gene_TPMs_file>.gz` (or similar)
+   - `data/<GTEx_Analysis_20170605_v8_RNASeQCv1.1.9_gene_tpm.gct>` (or similar)
 
 Adjust the exact paths in the notebooks if your filenames differ, but keep them relative to the repository (no absolute machine-specific paths).
 
