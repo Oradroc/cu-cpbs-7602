@@ -1,0 +1,6 @@
+pandas
+numpy
+tqdm
+seaborn
+scikit-learn
+statsmodels
