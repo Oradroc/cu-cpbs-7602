@@ -21,6 +21,15 @@ This notebook
 3. Produces a cleaned expression matrix and aligned labels
 4. Writes cleaned data to disk for use in clustering and later modeling tasks
 
+## Environment
+
+A `requirements.txt` file is included with required dependencies
+
+Create conda virtual environment
+
+conda create -n gene-Pred python=3.11
+conda activate gene-Pred
+pip install -r requirements.txt
 **Important prerequisite for Assignment 03**
 
 Before running anything in `assignment03/`, open `assignment01/DataCleaning.ipynb` and ensure that the cells that write the cleaned data to file are enabled so downstream notebooks can load the processed data.
