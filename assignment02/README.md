@@ -17,8 +17,17 @@ This notebook
 
 Before running other notebooks or `assignment02`  
 
-* Open `assignment01/DataCleaning.ipynb` and ensure that the cells that write the cleaned data to file are active so that downstream notebooks can load the processed data.  
+* Open `assignment01/DataCleaning.ipynb` and ensure that the cells that write the cleaned data to file are active so that downstream notebooks can load the processed data.
 
+## Environment
+
+A `requirements.txt` file is included with required dependencies
+
+Create conda virtual environment
+
+conda create -n gene-Model python=3.11
+conda activate gene-Model
+pip install -r requirements.txt
 ## Assignment 02  Linear and Logistic Modeling
 
 Located in `assignment02/`.
