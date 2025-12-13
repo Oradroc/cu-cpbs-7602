@@ -69,5 +69,11 @@ This notebook
 
 Random seeds are set in notebooks where appropriate to improve reproducibility of data splits, sampling, and model initialization.
 
+## Use of AI disclosure
+
+README file was drafted using chatGPT by describing all steps of the process
+requirements.txt file was created with chatGPT by pasting libraries into chatGPT 
+Two graphs were created with chatGPT and these are noted int the comments section
+
 
 
