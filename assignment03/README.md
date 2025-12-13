@@ -2,7 +2,7 @@
 
 ## Methodologic Error Notice
 
-I applied nromalization prior to the splits which contributes to the high performance since the model can learn the distributions. THe correct method would be to normalize each to itself. I do not have time to rerun everything, so this disclaimer will need to suffice
+I applied normalization prior to the splits which creates data leakage. The correct method would be to normalize each to itself. I do not have time to rerun everything, so this disclaimer will need to suffice
 
 ## Repository Organization
 
